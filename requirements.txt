@@ -1,0 +1,10 @@
+langchain
+langchain_community
+openai
+tiktoken
+rank_bm25
+jieba
+faiss-gpu
+modelscope
+sentence_transformers
+
