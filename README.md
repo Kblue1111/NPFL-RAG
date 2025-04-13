@@ -2,7 +2,8 @@
 
 This repository contains the full implementation of **NPFL-RAG**, a novel framework that integrates LLMs with external knowledge retrieval for fault localization in novice programs. It includes all source code, utilities, and evaluation scripts necessary to replicate the experiments in our study.
 
-![1744442661620](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1744442661620.png)
+![image](https://github.com/user-attachments/assets/76ec31bb-dd0c-4f3c-b5fc-ff0573250dff)
+
 
 ## 1. Requirements
 
